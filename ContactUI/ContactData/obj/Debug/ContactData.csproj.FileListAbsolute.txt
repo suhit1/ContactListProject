@@ -1,0 +1,5 @@
+C:\ContactListProject2015\ContactUI\ContactData\bin\Debug\ContactData.dll
+C:\ContactListProject2015\ContactUI\ContactData\bin\Debug\ContactData.pdb
+C:\ContactListProject2015\ContactUI\ContactData\obj\Debug\ContactData.dll
+C:\ContactListProject2015\ContactUI\ContactData\obj\Debug\ContactData.pdb
+C:\ContactListProject2015\ContactUI\ContactData\obj\Debug\ContactData.csprojResolveAssemblyReference.cache

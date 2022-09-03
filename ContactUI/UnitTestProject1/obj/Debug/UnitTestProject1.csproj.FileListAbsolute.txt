@@ -1,0 +1,10 @@
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\ContactUI.exe
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\ContactData.dll
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\ContactUI.pdb
+C:\ContactListProject2015\ContactUI\UnitTestProject1\bin\Debug\ContactData.pdb
+C:\ContactListProject2015\ContactUI\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\ContactListProject2015\ContactUI\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\ContactListProject2015\ContactUI\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

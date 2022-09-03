@@ -1,0 +1,11 @@
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\ContactUI.exe.config
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\ContactUI.exe
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\ContactUI.pdb
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\ContactData.dll
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\ContactData.pdb
+C:\ContactListProject2015\ContactUI\ContactUI\obj\Debug\ContactUI.csprojResolveAssemblyReference.cache
+C:\ContactListProject2015\ContactUI\ContactUI\obj\Debug\ContactUI.exe
+C:\ContactListProject2015\ContactUI\ContactUI\obj\Debug\ContactUI.pdb
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\log4net.dll
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\log4net.xml
+C:\ContactListProject2015\ContactUI\ContactUI\bin\Debug\log4net.config
